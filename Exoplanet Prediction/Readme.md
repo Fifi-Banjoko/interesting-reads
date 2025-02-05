@@ -1,0 +1,9 @@
+# The Classification Task
+
+
+The discovery and classification of exoplanets—planets orbiting stars outside our solar system—has become a major focus in modern astronomy. With the advent of advanced telescopes and space missions like NASA’s Kepler Space Telescope, large amounts of data have been collected, leading to the identification of thousands of potential exoplanets. However, classifying these candidates as confirmed exoplanets or false positives requires considerable manual analysis and verification, which can be time-consuming and resource-intensive. In this context, machine learning has emerged as a powerful tool for automating the classification process, improving both efficiency and accuracy.
+
+
+This project aims to apply big data tools such as Hadoop Distributed File System (HDFS), Apache Pyspark and machine learning techniques to the classification of exoplanet candidates. Using a dataset from NASA's Exoplanet Archive, various models are trained to predict whether a candidate exoplanet is a confirmed exoplanet or a false positive. The project explores multiple machine learning algorithms, including Naive Bayes, Logistic Regression, Support Vector Machines, Random Forests, and Multilayer Perceptrons, each offering different strengths in handling the complexity and variability of the data. By comparing the performance of these models, the project seeks to identify the most effective approach for exoplanet classification.
+Beyond model development, the project also aims to apply the selected model to real-world data to predict the classification of currently unconfirmed exoplanet candidates. This approach showcases the potential for machine learning to accelerate the process of exoplanet discovery, allowing astronomers to focus on the most promising candidates for further investigation. Through this work, big data analysis and machine learning is demonstrated as a valuable asset in the growing field of exoplanet research.
+

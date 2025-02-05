@@ -1,4 +1,4 @@
-#The Classification Task
+# The Classification Task
 
 
 The discovery and classification of exoplanets—planets orbiting stars outside our solar system—has become a major focus in modern astronomy. With the advent of advanced telescopes and space missions like NASA’s Kepler Space Telescope, large amounts of data have been collected, leading to the identification of thousands of potential exoplanets. However, classifying these candidates as confirmed exoplanets or false positives requires considerable manual analysis and verification, which can be time-consuming and resource-intensive. In this context, machine learning has emerged as a powerful tool for automating the classification process, improving both efficiency and accuracy.
